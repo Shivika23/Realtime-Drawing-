@@ -1,0 +1,42 @@
+.btn1 {
+    font-family: monospace;
+    margin: 0;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px gray;
+    padding: 10px;
+}
+
+.note {
+    color: black;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+
+#results {
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 7px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+canvas {
+    background-color: #00ffff;
+    border-radius: 5px;
+    box-shadow: 5px 5px 3px gray;
+}
+
+video {
+    border-radius: 5px;
+    box-shadow: 5px 5px 3px gray;
+}
